@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MERT%20YUSUF&fontAlignY=38&fontSize=65&desc=UnRealProf%20%E2%80%A2%20Code%20%E2%80%A2%20Games%20%E2%80%A2%20Builds&descAlignY=58&animation=twinkling&color=0:7C3AED,50:1F2937,100:0B1020" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MERT%20YUSUF&fontAlignY=38&fontSize=65&desc=UnRealProf%20%E2%80%A2%20Code%20%E2%80%A2%20Games%20%E2%80%A2%20Apps%20%E2%80%A2%20Builds&descAlignY=58&animation=twinkling&color=0:7C3AED,50:1F2937,100:0B1020" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=700&center=true&vCenter=true&width=700&lines=UnRealProf+online...;Python+%7C+JavaScript+%7C+Arduino;Building+cool+stuff+one+commit+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=700&center=true&vCenter=true&width=780&lines=UnRealProf+online...;PHP+%7C+JS+%7C+React+%7C+Node.js;Kotlin+%7C+MongoDB+%7C+Firebase;Shipping+apps+and+projects+daily" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=py,vscode,arduino,html,css,js,github,photoshop&theme=dark" height="58" />
+<img src="https://skillicons.dev/icons?i=php,js,react,html,nodejs,kotlin,mongodb,firebase,figma&theme=dark" height="58" />
 
 <br/><br/>
 
@@ -19,26 +19,4 @@
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=111827&logoColor=white&style=for-the-badge" height="30" />
 </a>
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="140" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750738-0b6b5bd0-2d90-4c2b-9c3f-fb6d3a3e4c1b.gif" width="75%" />
-
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UnRealProf/UnRealProf/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UnRealProf/UnRealProf/output/snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/UnRealProf/UnRealProf/output/snake.svg" />
-</picture>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=UnRealProf&color=7C3AED&style=for-the-badge" />
 </div>
