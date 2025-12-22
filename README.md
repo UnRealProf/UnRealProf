@@ -1,25 +1,32 @@
-<h1 align="center">🎮 MERT YUSUF</h1>
-<h3 align="center">UnRealProf • Code • Games • Builds</h3>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" height="140" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MERT%20YUSUF&fontAlignY=38&fontSize=65&desc=UnRealProf%20%E2%80%A2%20Code%20%E2%80%A2%20Games%20%E2%80%A2%20Builds&descAlignY=58&animation=twinkling&color=0:7C3AED,50:1F2937,100:0B1020" />
 
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,vscode,arduino,html,css,js,github,photoshop&theme=dark" height="58" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=700&center=true&vCenter=true&width=700&lines=UnRealProf+online...;Python+%7C+JavaScript+%7C+Arduino;Building+cool+stuff+one+commit+at+a+time" />
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mert-yusuf-%C3%A7etrefli-b270b036a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=7C3AED&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-  <a href="https://github.com/UnRealProf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=111827&logoColor=white&style=for-the-badge" height="30" />
-  </a>
+<img src="https://skillicons.dev/icons?i=py,vscode,arduino,html,css,js,github,photoshop&theme=dark" height="58" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mert-yusuf-%C3%A7etrefli-b270b036a/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=7C3AED&logoColor=white&style=for-the-badge" height="30" />
+</a>
+<a href="https://github.com/UnRealProf" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=111827&logoColor=white&style=for-the-badge" height="30" />
+</a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="140" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750738-0b6b5bd0-2d90-4c2b-9c3f-fb6d3a3e4c1b.gif" width="75%" />
+
 </div>
 
 <br/>
