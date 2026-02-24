@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MERT%20YUSUF&fontAlignY=38&fontSize=65&desc=UnRealProf%20%E2%80%A2%20Code%20%E2%80%A2%20Games%20%E2%80%A2%20Apps%20%E2%80%A2%20Builds&descAlignY=58&animation=twinkling&color=0:7C3AED,50:1F2937,100:0B1020" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MERT&fontAlignY=38&fontSize=65&desc=UnRealProf%20%E2%80%A2%20Code%20%E2%80%A2%20Games%20%E2%80%A2%20Apps%20%E2%80%A2%20Builds&descAlignY=58&animation=twinkling&color=0:7C3AED,50:1F2937,100:0B1020" />
 
 <br/>
 
